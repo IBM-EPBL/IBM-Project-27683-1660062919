@@ -1,0 +1,2 @@
+ibm-boto3
+watson ibm lite

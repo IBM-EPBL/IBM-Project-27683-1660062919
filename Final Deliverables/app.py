@@ -5,7 +5,7 @@ import os
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
 
-sg = SendGridAPIClient('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')
+sg = SendGridAPIClient('Your API key')
 
 
 
